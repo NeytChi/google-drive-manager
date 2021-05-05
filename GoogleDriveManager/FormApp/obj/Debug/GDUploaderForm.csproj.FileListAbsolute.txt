@@ -1,0 +1,279 @@
+c:\users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe.config
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.pdb
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.dll
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.dll
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.dll
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.dll
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.pdb
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.xml
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.xml
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.pdb
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.xml
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.xml
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csprojResolveAssemblyReference.cache
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.Properties.Resources.resources
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csproj.GenerateResource.Cache
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.exe
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.pdb
+C:\Users\tataki\documents\visual studio 2015\Projects\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.Form1.resources
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe.config
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.exe
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.pdb
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.pdb
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.dll
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.dll
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.dll
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.dll
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.dll
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.dll
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.dll
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.pdb
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.xml
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.pdb
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.xml
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.pdb
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.xml
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.pdb
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.xml
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.pdb
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.xml
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.xml
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.xml
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csprojResolveAssemblyReference.cache
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.Form1.resources
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.Properties.Resources.resources
+E:\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csproj.GenerateResource.Cache
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe.config
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.exe
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.pdb
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.pdb
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.dll
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.dll
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.dll
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.pdb
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.xml
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.xml
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.xml
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csprojResolveAssemblyReference.cache
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.Properties.Resources.resources
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csproj.GenerateResource.Cache
+C:\Users\Obrelix\Desktop\Google Drive C#\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.frmMain.resources
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe.config
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.exe
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.pdb
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.pdb
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.dll
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.dll
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.dll
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.pdb
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.xml
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.xml
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.xml
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csprojResolveAssemblyReference.cache
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.frmMain.resources
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.Properties.Resources.resources
+C:\Users\Obrelix\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csproj.GenerateResource.Cache
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe.config
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.exe
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.pdb
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.pdb
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.dll
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.dll
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.dll
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.dll
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.pdb
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.xml
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.xml
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.pdb
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.xml
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.xml
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csprojResolveAssemblyReference.cache
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.frmMain.resources
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.Properties.Resources.resources
+C:\Users\tataki\Source\Repos\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe.config
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.pdb
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.dll
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.dll
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.dll
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.pdb
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.xml
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.xml
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.xml
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.frmMain.resources
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.Properties.Resources.resources
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.exe
+C:\Users\Developer\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.pdb
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe.config
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.pdb
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.dll
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.dll
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.dll
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.dll
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.dll
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.dll
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.dll
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.pdb
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.xml
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.pdb
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.xml
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.pdb
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.xml
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.pdb
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.xml
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.pdb
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.xml
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.xml
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.xml
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csprojResolveAssemblyReference.cache
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.frmMain.resources
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.Properties.Resources.resources
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csproj.GenerateResource.Cache
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.exe
+E:\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.pdb
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe.config
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.exe
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.pdb
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.pdb
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.dll
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.dll
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.dll
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.pdb
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.xml
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.xml
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.xml
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csprojResolveAssemblyReference.cache
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.frmMain.resources
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.Properties.Resources.resources
+C:\Users\Obrelix\Desktop\File-Upload-Google-Drive-APIV3-\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csproj.GenerateResource.Cache
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe.config
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.exe
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.pdb
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.exe
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\GDUploaderForm.pdb
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.dll
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.dll
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.dll
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.dll
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.pdb
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.xml
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.xml
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.pdb
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Core.xml
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\bin\Debug\Zlib.Portable.xml
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csprojResolveAssemblyReference.cache
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.frmMain.resources
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.Properties.Resources.resources
+C:\Users\tataki\Source\Repos\.net-Google-Drive-API-v3-File-Handling\GDUploaderForm\GDUploaderForm\obj\Debug\GDUploaderForm.csproj.GenerateResource.Cache
